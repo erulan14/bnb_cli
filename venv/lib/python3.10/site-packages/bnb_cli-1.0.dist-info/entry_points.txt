@@ -1,0 +1,3 @@
+[console_scripts]
+bnb_cli = bnb_cli.main:cli
+
